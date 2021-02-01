@@ -13,7 +13,7 @@
 	
 	if(re == 1){ //로그인 성공했을때 
 		session.setAttribute("id", id);
-		response.sendRedirect("index.jsp");
+		response.sendRedirect("../index.jsp");
 	}else if(re == 0){ %>
 	
 		<script>

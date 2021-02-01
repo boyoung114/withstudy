@@ -7,7 +7,7 @@
 <title>WithStudy</title>
 </head>
 <body>
-<%@ include file="menu_banner.jsp"%>
+<%@ include file="../menu_banner.jsp"%>
 
 <div class="show">
 	

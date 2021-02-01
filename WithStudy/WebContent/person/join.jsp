@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<%@ include file="menu_banner.jsp"%>
+<%@ include file="../menu_banner.jsp"%>
 
 <div class="show">
 	<div class="join">
